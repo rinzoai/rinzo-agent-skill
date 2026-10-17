@@ -14,7 +14,7 @@ For an existing account task, start at https://rinzo.ai/agents/rinzo/SKILL.md. T
 
 With Node.js/npm available, inspect this repository and use the open skills CLI if you choose:
 
-    npx skills add cryptoaaron/rinzo-agent-skill --skill rinzo-setup
+    npx skills add rinzoai/rinzo-agent-skill --skill rinzo-setup
 
 This installs agent instructions, not a Rinzo account or the Rinzo CLI. Installation is not authority to spend, change phone configuration or place calls. Follow your agent's normal permission model and the official playbook. No telemetry installations were performed to manufacture directory ranking; a public repository is not proof of skills.sh indexing.
 
